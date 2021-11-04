@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleStreetMapDemo</string>
+    <string name="maps_api_key">твой ключ от Maps SDK for Android</string>
+</resources>
